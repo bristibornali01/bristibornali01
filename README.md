@@ -33,13 +33,10 @@
 ### 🧍‍♀️ Personal Touch
 
 <p align="center">
-<!-- Put this (eg) photo here -->
+
 
   <img src="https://share.google/images/v10RmV7nvWChRInBS" width="300"/>
-<img src="eytttt" alt="Bristi's avatar or illustration" width="300"/>
+
 </p>
 
-<!-- Example: If you upload a cartoon image in your repo, you can replace it like:
-<img src="https://share.google/images/v10RmV7nvWChRInBS" width="300"/>
--->
 
