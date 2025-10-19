@@ -35,7 +35,7 @@
 <p align="center">
 
 
-  <img src="https://share.google/images/v10RmV7nvWChRInBS" width="300"/>
+  <img src="https://share.google/btUcqPDFM56fTxcAI" width="300"/>
 
 </p>
 
