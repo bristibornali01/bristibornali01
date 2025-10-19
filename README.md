@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 About Me
-I'm a final-year CS undergrad who loves building useful software and solving problems with code. I'm especially interested in full-stack development and contributing to open-source.
+I'm a CS undergrad who loves building useful software and solving problems with code. I'm especially interested in full-stack development and contributing to open-source.
 
 ---
 
