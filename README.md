@@ -27,16 +27,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
----
-
-### 📊 GitHub Stats:
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=bristbornali01&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bristbornali01&layout=compact&theme=radical" alt="Top languages" />
-</p>
 
 ---
 
@@ -44,10 +34,12 @@
 
 <p align="center">
 <!-- Put this (eg) photo here -->
-<img src="https://share.google/images/v10RmV7nvWChRInBS" alt="Bristi's avatar or illustration" width="300"/>
+
+  <img src="https://share.google/images/v10RmV7nvWChRInBS" width="300"/>
+<img src="eytttt" alt="Bristi's avatar or illustration" width="300"/>
 </p>
 
 <!-- Example: If you upload a cartoon image in your repo, you can replace it like:
-<img src="https://github.com/bristboma101/bristboma101/blob/main/assets/bristi-avatar.png" width="300"/>
+<img src="https://share.google/images/v10RmV7nvWChRInBS" width="300"/>
 -->
 
